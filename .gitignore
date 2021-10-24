@@ -1,5 +1,0 @@
-.env
-venv
-*.sqlite3
-geckodriver.log
-.coverage
